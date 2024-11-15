@@ -2,14 +2,14 @@
 -----------------------
 This is the solution for the [Number-guessing-game project](https://roadmap.sh/projects/number-guessing-game) from [roadmap.sh](https://roadmap.sh/)
 ---------------------------------------------------
-## Overview
+# # Overview
 -----------
 This project builds a simple number guessing game where the computer randomly selects a number and the user has to guess it. The user will be given a limited number of chances to guess the number. If the user guesses the number correctly, the game will end, and the user will win. Otherwise, the game will continue until the user runs out of chances.
 <br>
-### Instructions for running the file
+# # # Instructions for running the file
    Clone the repository
      git clone https://github.com/niranjanaj628/Number-guessing-game.git
-### Instructions for playing the game
+# # # Instructions for playing the game
 <br>
 1. After cloning the repository into your machine, run the python file (game.py) after ensuring that python is installed in your system.
 2. You can execute the python file either in any of the python IDEs present in your system or in command prompt.
